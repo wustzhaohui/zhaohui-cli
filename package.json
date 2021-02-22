@@ -1,0 +1,15 @@
+{
+  "name": "qz-front-cli",
+  "version": "1.0.0",
+  "description": "取证事业部前端项目脚手架",
+  "main": "index.js",
+  "author": "赵辉",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^7.1.0"
+  },
+  "dependencies": {}
+}
